@@ -1,0 +1,4 @@
+.idea
+target
+# Ignore temp files with extentions:
+*.properties~
